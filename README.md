@@ -1,0 +1,3 @@
+- ✨ Hi, I’m @suztopp ✨
+- ✨ I’m currently learning to code at CoderAcademy in Melbourne... ✨
+- ✨ How to reach me ... suziiiiiq @ Instagram ✨
