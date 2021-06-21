@@ -1,6 +1,7 @@
 <div align="center">
-# HI THERE!
-  <br></br>
+
+  # HI THERE!
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{suztopp}/count.svg)
 
