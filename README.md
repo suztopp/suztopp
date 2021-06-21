@@ -21,5 +21,3 @@
 ![](https://media.giphy.com/media/M5JeQMGRmuz0A/giphy.gif)
 
 </div>
-
-<i class="icon-ruby-on-rails" style="color:red"></i> <i class="icon-ruby-on-rails" style="color:green"></i> <i class="icon-ruby-on-rails" style="color:blue"></i> <i class="icon-ruby-on-rails" style="color:purple"></i> icon-ruby-on-rails
