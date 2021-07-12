@@ -17,6 +17,11 @@
 ✨ https://au.linkedin.com/in/suzanne-topp-99707153  ✨ <br></br>
 ✨ https://www.instagram.com/suziiiiiq/?hl=en  ✨ <br></br>
 
+---
+
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suztopp&show_icons=true&hide_border=true" />
+
+---
 
 ![](https://media.giphy.com/media/M5JeQMGRmuz0A/giphy.gif)
 
