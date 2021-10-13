@@ -11,7 +11,7 @@
 ✨ I recently finished a Diploma of IT to learn to code at CoderAcademy in Melbourne ✨ <br></br>
 ✨ I really like The Shining ✨ <br></br>
 
-<img src="https://img.icons8.com/nolan/50/ruby-programming-language.png"/> <img src="https://img.icons8.com/nolan/50/javascript.png"/> <img src="https://img.icons8.com/nolan/50/html.png"/> <img src="https://img.icons8.com/nolan/50/css-filetype.png"/> <img src="https://img.icons8.com/nolan/50/linux--v1.png"/> <img src="https://img.icons8.com/nolan/50/react-native.png"/> <br></br>
+<img src="https://img.icons8.com/nolan/50/ruby-programming-language.png"/> <img src="https://img.icons8.com/nolan/50/javascript.png"/> <img src="https://img.icons8.com/nolan/50/html.png"/> <img src="https://img.icons8.com/nolan/50/css-filetype.png"/> <img src="https://img.icons8.com/nolan/50/linux--v1.png"/> <img src="https://img.icons8.com/nolan/50/react-native.png"/> <img src="https://img.icons8.com/nolan/64/mac-logo.png"/> <br></br>
 
 ✨ **How to reach me ...**  ✨ <br></br>
 ✨ https://www.suztoppdeveloper.com/  ✨ <br></br>
