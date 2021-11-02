@@ -24,6 +24,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suztopp&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suztopp&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ---
 
 ![](https://media.giphy.com/media/M5JeQMGRmuz0A/giphy.gif)
