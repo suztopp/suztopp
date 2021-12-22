@@ -8,7 +8,7 @@
 <!-- <div align="center"> -->
 
 ✨ I’m @suztopp ✨ <br></br>
-✨ I recently finished a Diploma of IT to learn to code at CoderAcademy in Melbourne ✨ <br></br>
+✨ I finished a Diploma of IT to learn to code at CoderAcademy in Melbourne in 2021 ✨ <br></br>
 ✨ I'm about to start my new job at DigIO as an Associate Software Engineer after doing a rad traineeship ✨ <br></br>
 ✨ I really like The Shining ✨ <br></br>
 
