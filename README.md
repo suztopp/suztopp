@@ -23,11 +23,14 @@
 
 <!-- <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suztopp&show_icons=true&hide_border=true&theme=tokyonight" /><br><br> -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suztopp&theme=synthwave&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suztopp&theme=synthwave&show_icons=true) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suztopp&show_icons=true&theme=synthwave)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suztopp&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suztopp&layout=compact&theme=cobalt)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suztopp&layout=compact&theme=cobalt) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suztopp&layout=compact&theme=cobalt) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suztopp&theme=cobalt"/>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suztopp&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
