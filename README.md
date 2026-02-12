@@ -11,6 +11,8 @@
 ✨Currently crushing it with C# and Azure, which is where my current love sits✨ <br></br>
 ✨I really like The Shining✨ <br></br>
 
+WORK REPO - MY CURRENT WORKS - https://github.com/suztoppalinta
+
 <img src="https://img.icons8.com/nolan/50/ruby-programming-language.png"/> <img src="https://img.icons8.com/nolan/50/javascript.png"/> <img src="https://img.icons8.com/nolan/50/html.png"/> <img src="https://img.icons8.com/nolan/50/css-filetype.png"/> <img src="https://img.icons8.com/nolan/50/linux--v1.png"/> <img src="https://img.icons8.com/nolan/50/react-native.png"/> <img src="https://img.icons8.com/nolan/64/mac-logo.png"/> <br></br>
 
 ✨ **How to reach me ...**  ✨ <br></br>
